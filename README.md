@@ -1,4 +1,4 @@
-## 💻 Back-end Developer Sayer
+## 💻 Sayer
 > "일단 해보는 개발자 장세영입니다. 도전과 협업을 즐거워 합니다."
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://say-young.tistory.com/)](https://say-young.tistory.com/)	
@@ -18,6 +18,11 @@
 
 #### 💡 일을 시작하는 순간, motiiv | 웹 프론트 개발
 ##### 웹사이트 : https://www.motiiv.site/
+
+<br>
+
+#### 🏠 find my Roomie, 나는 어떤 룸메이트 유형일까? | 웹 프론트 개발
+##### 웹사이트 : https://find-my-roomie.vercel.app/
 
 <br>
 
