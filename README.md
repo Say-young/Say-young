@@ -14,7 +14,9 @@
 
 #### 🐣 소프트스피어(더에스엠씨그룹) | 웹 개발
 ##### 방구석연구소 : https://www.banggooso.com/
-##### 메타브스튜디오 : https://studio.metavv.com/auth/login
+###### 신규 콘텐츠 유형(케미테스트) 개발, 기존 테스트 구조 전체 리팩토링
+##### 메타브 : https://studio.metavv.com/
+###### 스튜디오(유저가 직접 유형테스트를 만들 수 있는 페이지) 프론트 개발
 
 <br>
 <br>
@@ -26,13 +28,13 @@
 
 <br>
 
-#### 💡 일을 시작하는 순간, motiiv | 웹 프론트 개발
-##### 웹사이트 : https://www.motiiv.site/
+#### 🏠 find my Roomie, 나는 어떤 룸메이트 유형일까? | 웹 개발
+##### 웹사이트 : https://find-my-roomie.vercel.app/
 
 <br>
 
-#### 🏠 find my Roomie, 나는 어떤 룸메이트 유형일까? | 웹 프론트 개발
-##### 웹사이트 : https://find-my-roomie.vercel.app/
+#### 💡 일을 시작하는 순간, motiiv | 웹 개발
+##### 웹사이트 : https://www.motiiv.site/
 
 <br>
 
