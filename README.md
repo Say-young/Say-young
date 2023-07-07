@@ -23,20 +23,21 @@
 
 ## Project
 
-#### ⚡ 실시간 브레인스토밍 협업 툴, STORM | 서버 개발
-##### 다운로드(Android & iOS) : https://linktr.ee/STORMbrainstorming
+#### 📚 우리 둘이 만들어가는 이야기, 우리두리 | NodeJS, React Native, 기획&디자인
+##### 소개 웹사이트 : https://linktr.ee/wuri.duri
+###### 졸업프로젝트 - 캡스톤디자인 포스터 공모전 대상, 교내 생성형 AI 활용 공모전 우수상
 
 <br>
 
-#### 🏠 find my Roomie, 나는 어떤 룸메이트 유형일까? | 웹 개발
+#### 🏠 find my Roomie, 나는 어떤 룸메이트 유형일까? | ReactJS, 기획&디자인
 ##### 웹사이트 : https://find-my-roomie.vercel.app/
 
 <br>
 
-#### 💡 일을 시작하는 순간, motiiv | 웹 개발
-##### 웹사이트 : https://www.motiiv.site/
+#### ⚡ 실시간 브레인스토밍 협업 툴, STORM | NodeJS
+##### 다운로드(Android & iOS) : https://linktr.ee/STORMbrainstorming
 
 <br>
 
-#### ✔ 지금 바로 시작하는 환경 보호 첫걸음, ani more | 서버 & 안드로이드 개발
-##### readme : https://github.com/21-animore/animore_Android
+#### 💡 일을 시작하는 순간, motiiv | ReactJS
+##### 저장소 : https://github.com/Motiiv
